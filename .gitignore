@@ -1,0 +1,7 @@
+happiness-report/
+_pycache_/
+*.pyc
+*.pyo
+.DS_Store
+.env
+
