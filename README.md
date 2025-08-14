@@ -1,8 +1,6 @@
 # 🌏 World Happiness Report – Data Analysis
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Smiley.svg" alt="Happiness" width="120"/>
-</div>
+
 
 ## 📖 Overview
 This project analyzes the **World Happiness Report** dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn.  
