@@ -1,4 +1,5 @@
 🌏 World Happiness Report Analysis
+
 📌 Project Overview
 
 This project analyzes the World Happiness Report dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn.
@@ -22,6 +23,8 @@ SQL Simulation in Pandas
 
 Insights
 
+
+
 📂 Dataset
 
 Source: World Happiness Report
@@ -44,6 +47,9 @@ Generosity – Willingness to help others
 
 Perceptions of corruption – Public perception of corruption
 
+
+
+
 📊 Part 1 – Basic Data Understanding
 
 Load and preview dataset (first 10 rows)
@@ -59,6 +65,9 @@ Count of unique countries and regions
 Country with the highest happiness score
 
 Most common region
+
+
+
 
 📈 Part 2 – Exploratory Data Analysis (EDA)
 
@@ -84,6 +93,9 @@ Percentage of countries below global average
 
 Most common region among top 20 happiest countries
 
+
+
+
 ➗ Part 4 – Linear Algebra & NumPy
 
 Create arrays for Ladder score and Logged GDP per capita
@@ -94,10 +106,15 @@ Matrix multiplication: [GDP per capita, Social support] × [0.5, 0.5]
 
 Normalization of Ladder score array
 
+
+
+
 🔢 Part 5 – Calculus
 
 
 Wellbeing_Index=(GDP×Happiness)+0.5×(Happiness−5)**2
+
+
 
 
 
@@ -111,6 +128,9 @@ above_average_gdp → 1 if GDP > global mean
 
 Quartiles for Healthy life expectancy
 
+
+
+
 💾 Part 7 – SQL Simulation in Pandas
 
 Countries with happiness score > 7
@@ -122,6 +142,10 @@ Group by region → average happiness score
 Top 5 regions by average happiness score
 
 Select countries with life expectancy > 70
+
+
+
+
 
 💡 Part 8 – Insights
 
@@ -135,6 +159,10 @@ Do richer countries always score higher in happiness?
 
 Region with the highest average life expectancy
 
+
+
+
+
 🛠 Tools & Libraries Used
 
 Python 3.x
@@ -146,6 +174,10 @@ NumPy – Numerical operations
 Matplotlib & Seaborn – Visualization
 
 Jupyter Notebook – Interactive analysis
+
+
+
+
 
 📌 How to Run
 
